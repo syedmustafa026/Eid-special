@@ -20,7 +20,16 @@ height: 620px;
 .img{
  background-color: black;
 }
-
+.time{
+    padding: 20px;
+   display: flex;
+    position: relative;
+    background-color: cornsilk;
+    align-items: center;
+    flex-direction: row;
+  
+    align-content: space-around;
+}
 
 
 
