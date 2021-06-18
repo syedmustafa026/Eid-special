@@ -40,7 +40,17 @@ h2{
     padding: 10px;
 
 }
-
+p{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 120px;
+    font-size: 22px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:cornsilk;
+    border-radius: 10px;
+}
 
 
 
