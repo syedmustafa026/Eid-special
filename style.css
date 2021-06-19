@@ -60,7 +60,17 @@ p{
     }
 
 
-
+ .time{
+        padding: 20px;
+       display: block;
+        position: relative;
+        background-color: rgb(128, 124, 108);
+        align-items: center;
+        flex-direction: row;
+      
+        align-content: space-around;
+    }
+    
 
 
 
