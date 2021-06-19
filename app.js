@@ -19,7 +19,14 @@ document.getElementById("hours").innerHTML = hours +" hours  "
  
 document.getElementById("minutes").innerHTML = minutes + " minute "
  
- 
+document.getElementById("seconds").innerHTML = seconds +" second"
+
+
+} )
+
+function swap(){
+    
+}
  
  
  
