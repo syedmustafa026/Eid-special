@@ -17,6 +17,7 @@ document.getElementById("days").innerHTML = days + " Days"
  
 document.getElementById("hours").innerHTML = hours +" hours  "
  
+document.getElementById("minutes").innerHTML = minutes + " minute "
  
  
  
