@@ -15,6 +15,7 @@ seconds = Math.floor((diff % (1000*60))  / 1000)
  
 document.getElementById("days").innerHTML = days + " Days"
  
+document.getElementById("hours").innerHTML = hours +" hours  "
  
  
  
